@@ -1,0 +1,7 @@
+﻿  task6_while.cpp
+task6_while.obj : error LNK2019: ссылка на неразрешенный внешний символ "double __cdecl task1(int)" (?task1@@YANH@Z) в функции main
+task6_while.obj : error LNK2019: ссылка на неразрешенный внешний символ "double __cdecl task2(double)" (?task2@@YANN@Z) в функции main
+task6_while.obj : error LNK2019: ссылка на неразрешенный внешний символ "void __cdecl task3(int,int)" (?task3@@YAXHH@Z) в функции main
+task6_while.obj : error LNK2019: ссылка на неразрешенный внешний символ "int __cdecl task4(double)" (?task4@@YAHN@Z) в функции main
+task6_while.obj : error LNK2019: ссылка на неразрешенный внешний символ "int __cdecl task5(double)" (?task5@@YAHN@Z) в функции main
+C:\Users\achut\OneDrive\Рабочий стол\уеба\барков\lab3\task6_while\x64\Debug\task6_while.exe : fatal error LNK1120: неразрешенных внешних элементов: 5
